@@ -1,0 +1,1001 @@
+staff_pick,spotlight,category,subcategory
+False,False,food,food trucks
+False,False,food,food trucks
+False,False,food,food trucks
+False,False,food,food trucks
+False,False,food,food trucks
+False,False,food,food trucks
+False,False,food,food trucks
+False,False,food,food trucks
+True,False,food,food trucks
+False,False,food,food trucks
+False,False,food,food trucks
+False,True,food,food trucks
+False,False,food,food trucks
+False,False,food,food trucks
+False,True,food,food trucks
+False,True,food,food trucks
+False,True,food,food trucks
+False,True,food,food trucks
+False,False,food,food trucks
+False,True,food,food trucks
+False,True,food,food trucks
+False,False,food,food trucks
+False,True,food,food trucks
+False,True,food,food trucks
+False,True,food,food trucks
+False,False,food,food trucks
+False,False,food,food trucks
+True,False,food,food trucks
+True,False,food,food trucks
+False,False,food,food trucks
+False,True,food,food trucks
+False,False,food,food trucks
+False,False,food,food trucks
+False,False,food,food trucks
+False,False,food,food trucks
+True,False,food,food trucks
+False,False,food,food trucks
+False,False,food,food trucks
+False,True,food,food trucks
+False,False,food,food trucks
+False,False,food,food trucks
+False,False,food,food trucks
+False,False,food,food trucks
+False,False,food,food trucks
+False,True,food,food trucks
+False,False,food,food trucks
+False,True,music,rock
+False,False,music,rock
+False,False,music,rock
+False,True,music,rock
+False,False,music,rock
+False,False,music,rock
+False,False,music,rock
+False,True,music,rock
+False,False,music,rock
+False,False,music,rock
+False,False,music,rock
+False,False,music,rock
+False,False,music,rock
+False,False,music,rock
+False,False,music,rock
+False,False,music,rock
+False,True,music,rock
+False,False,music,rock
+True,False,music,rock
+False,True,music,rock
+False,True,music,rock
+False,False,music,rock
+False,True,music,rock
+False,False,music,rock
+False,False,music,rock
+False,True,music,rock
+False,False,music,rock
+False,True,music,rock
+False,False,music,rock
+False,False,music,rock
+False,False,music,rock
+False,False,music,rock
+False,False,music,rock
+False,True,music,rock
+False,False,music,rock
+False,False,music,rock
+False,False,music,rock
+False,False,music,rock
+False,False,music,rock
+False,False,music,rock
+False,False,music,rock
+False,False,music,rock
+False,False,music,rock
+False,True,music,rock
+False,True,music,rock
+False,False,music,rock
+False,False,music,rock
+False,False,music,rock
+False,False,music,rock
+False,False,music,rock
+False,True,music,rock
+False,True,music,rock
+False,False,music,rock
+False,False,music,rock
+False,False,music,rock
+False,True,music,rock
+False,False,music,rock
+False,False,music,rock
+True,False,music,rock
+False,False,music,rock
+False,False,music,rock
+False,True,music,rock
+False,False,music,rock
+False,False,music,rock
+False,False,music,rock
+False,False,music,rock
+False,False,music,rock
+False,False,music,rock
+False,False,music,rock
+False,False,music,rock
+False,False,music,rock
+False,True,music,rock
+False,False,music,rock
+False,True,music,rock
+False,False,music,rock
+True,True,music,rock
+True,False,music,rock
+False,False,music,rock
+False,True,music,rock
+False,False,music,rock
+False,True,music,rock
+False,False,music,rock
+False,True,music,rock
+False,False,music,rock
+False,True,music,rock
+False,False,music,electric music
+False,False,music,electric music
+False,True,music,electric music
+False,False,music,electric music
+False,False,music,electric music
+False,False,music,electric music
+False,False,music,electric music
+False,False,music,electric music
+False,False,music,electric music
+False,True,music,electric music
+False,False,music,electric music
+False,False,music,electric music
+False,False,music,electric music
+False,False,music,electric music
+False,False,music,electric music
+False,False,music,electric music
+False,False,music,electric music
+False,True,music,electric music
+False,False,music,indie rock
+False,False,music,indie rock
+False,False,music,indie rock
+False,False,music,indie rock
+False,False,music,indie rock
+False,False,music,indie rock
+False,False,music,indie rock
+False,True,music,indie rock
+False,True,music,indie rock
+False,False,music,indie rock
+True,False,music,indie rock
+False,True,music,indie rock
+False,True,music,indie rock
+False,False,music,indie rock
+False,True,music,indie rock
+False,False,music,indie rock
+False,True,music,indie rock
+False,False,music,indie rock
+False,False,music,indie rock
+False,False,music,indie rock
+False,False,music,indie rock
+False,False,music,indie rock
+False,True,music,indie rock
+False,True,music,indie rock
+False,False,music,indie rock
+False,False,music,indie rock
+False,False,music,indie rock
+False,False,music,indie rock
+False,False,music,indie rock
+False,True,music,indie rock
+False,False,music,indie rock
+False,False,music,indie rock
+False,False,music,indie rock
+False,False,music,indie rock
+False,False,music,indie rock
+False,False,music,indie rock
+True,True,music,indie rock
+False,False,music,indie rock
+False,False,music,indie rock
+False,True,music,indie rock
+False,True,music,indie rock
+False,False,music,indie rock
+False,False,music,indie rock
+False,False,music,indie rock
+False,True,music,indie rock
+False,False,music,metal
+False,False,music,metal
+False,False,music,metal
+False,True,music,metal
+False,False,music,metal
+False,False,music,metal
+False,False,music,metal
+False,False,music,jazz
+False,False,music,jazz
+False,False,music,jazz
+False,True,music,jazz
+False,True,music,jazz
+False,False,music,jazz
+False,False,music,jazz
+False,False,music,jazz
+False,False,music,jazz
+False,True,music,jazz
+False,False,music,jazz
+False,False,music,jazz
+False,False,music,jazz
+False,False,music,jazz
+False,True,music,jazz
+False,False,music,jazz
+False,False,music,jazz
+False,False,music,world music
+False,True,music,world music
+False,False,music,world music
+False,False,technology,web
+False,False,technology,web
+False,True,technology,web
+False,False,technology,web
+False,False,technology,web
+False,False,technology,web
+False,False,technology,web
+False,False,technology,web
+False,False,technology,web
+False,True,technology,web
+False,False,technology,web
+False,False,technology,web
+False,False,technology,web
+False,False,technology,web
+False,False,technology,web
+False,False,technology,web
+True,False,technology,web
+False,False,technology,web
+False,False,technology,web
+False,False,technology,web
+False,True,technology,web
+False,False,technology,web
+False,True,technology,web
+False,True,technology,web
+False,False,technology,web
+False,False,technology,web
+False,False,technology,web
+False,False,technology,web
+False,False,technology,web
+False,True,technology,web
+False,False,technology,web
+False,False,technology,web
+False,False,technology,web
+False,False,technology,web
+False,False,technology,web
+False,False,technology,web
+False,False,technology,web
+False,False,technology,web
+False,False,technology,web
+True,True,technology,web
+False,True,technology,web
+False,False,technology,web
+True,False,technology,web
+False,False,technology,web
+False,False,technology,web
+False,False,technology,web
+False,False,technology,web
+False,False,technology,web
+False,False,technology,web
+False,True,technology,web
+False,False,technology,web
+False,False,technology,wearables
+False,False,technology,wearables
+False,True,technology,wearables
+False,True,technology,wearables
+False,False,technology,wearables
+False,False,technology,wearables
+False,True,technology,wearables
+False,False,technology,wearables
+False,True,technology,wearables
+False,True,technology,wearables
+False,True,technology,wearables
+False,False,technology,wearables
+False,False,technology,wearables
+False,False,technology,wearables
+False,True,technology,wearables
+False,False,technology,wearables
+False,False,technology,wearables
+False,False,technology,wearables
+False,False,technology,wearables
+False,False,technology,wearables
+False,False,technology,wearables
+False,False,technology,wearables
+False,True,technology,wearables
+False,False,technology,wearables
+False,False,technology,wearables
+False,True,technology,wearables
+False,False,technology,wearables
+False,False,technology,wearables
+False,False,technology,wearables
+False,False,technology,wearables
+False,True,technology,wearables
+False,False,technology,wearables
+False,False,technology,wearables
+True,False,technology,wearables
+False,False,technology,wearables
+False,False,technology,wearables
+False,False,technology,wearables
+False,False,technology,wearables
+False,False,technology,wearables
+False,False,technology,wearables
+False,False,technology,wearables
+False,False,technology,wearables
+False,True,technology,wearables
+False,False,technology,wearables
+False,True,technology,wearables
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,True,theater,plays
+False,False,theater,plays
+False,True,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,True,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,True,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,True,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,True,theater,plays
+False,True,theater,plays
+False,False,theater,plays
+False,True,theater,plays
+False,False,theater,plays
+True,True,theater,plays
+False,False,theater,plays
+True,False,theater,plays
+False,False,theater,plays
+False,True,theater,plays
+False,True,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,True,theater,plays
+False,False,theater,plays
+True,False,theater,plays
+False,False,theater,plays
+False,True,theater,plays
+False,False,theater,plays
+False,True,theater,plays
+False,True,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,True,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,True,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,True,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,True,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+True,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+True,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,True,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,True,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,True,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,True,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,True,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,True,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,True,theater,plays
+False,True,theater,plays
+False,True,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,True,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,True,theater,plays
+False,True,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+True,False,theater,plays
+False,False,theater,plays
+False,True,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,True,theater,plays
+False,False,theater,plays
+False,True,theater,plays
+False,False,theater,plays
+True,False,theater,plays
+False,False,theater,plays
+True,False,theater,plays
+False,True,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,True,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,True,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,True,theater,plays
+False,True,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,True,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,True,theater,plays
+False,False,theater,plays
+False,True,theater,plays
+False,False,theater,plays
+False,True,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,True,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,True,theater,plays
+False,True,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+True,True,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,True,theater,plays
+False,True,theater,plays
+False,True,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,True,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+True,True,theater,plays
+True,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,True,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,True,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,True,theater,plays
+True,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,True,theater,plays
+True,True,theater,plays
+False,False,theater,plays
+False,True,theater,plays
+False,True,theater,plays
+False,False,theater,plays
+False,True,theater,plays
+False,True,theater,plays
+False,False,theater,plays
+False,True,theater,plays
+False,True,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,True,theater,plays
+False,True,theater,plays
+False,False,theater,plays
+False,True,theater,plays
+False,False,theater,plays
+False,True,theater,plays
+False,False,theater,plays
+False,True,theater,plays
+False,False,theater,plays
+False,True,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,True,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,True,theater,plays
+False,True,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,True,theater,plays
+False,True,theater,plays
+True,True,theater,plays
+False,True,theater,plays
+False,True,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,True,theater,plays
+False,False,theater,plays
+False,True,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,True,theater,plays
+False,True,theater,plays
+False,False,theater,plays
+False,True,theater,plays
+False,False,theater,plays
+False,True,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,True,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,True,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,True,theater,plays
+False,True,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+True,False,theater,plays
+True,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,True,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,True,theater,plays
+False,True,theater,plays
+False,True,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,theater,plays
+False,False,film & video,documentary
+False,False,film & video,documentary
+False,False,film & video,documentary
+False,False,film & video,documentary
+False,False,film & video,documentary
+False,False,film & video,documentary
+False,True,film & video,documentary
+False,True,film & video,documentary
+False,False,film & video,documentary
+False,True,film & video,documentary
+False,False,film & video,documentary
+False,False,film & video,documentary
+False,False,film & video,documentary
+False,True,film & video,documentary
+False,False,film & video,documentary
+False,False,film & video,documentary
+False,True,film & video,documentary
+False,False,film & video,documentary
+False,False,film & video,documentary
+False,False,film & video,documentary
+False,True,film & video,documentary
+False,True,film & video,documentary
+False,True,film & video,documentary
+False,False,film & video,documentary
+True,True,film & video,documentary
+False,True,film & video,documentary
+True,False,film & video,documentary
+False,False,film & video,documentary
+False,True,film & video,documentary
+False,False,film & video,documentary
+False,True,film & video,documentary
+False,False,film & video,documentary
+False,True,film & video,documentary
+False,False,film & video,documentary
+True,True,film & video,documentary
+False,False,film & video,documentary
+False,False,film & video,documentary
+False,False,film & video,documentary
+False,False,film & video,documentary
+False,False,film & video,documentary
+False,True,film & video,documentary
+False,True,film & video,documentary
+True,True,film & video,documentary
+False,False,film & video,documentary
+False,False,film & video,documentary
+False,False,film & video,documentary
+False,False,film & video,documentary
+False,False,film & video,documentary
+False,True,film & video,documentary
+False,False,film & video,documentary
+False,False,film & video,documentary
+False,True,film & video,documentary
+False,False,film & video,documentary
+True,True,film & video,documentary
+False,False,film & video,documentary
+True,True,film & video,documentary
+False,False,film & video,documentary
+False,True,film & video,documentary
+False,False,film & video,documentary
+False,False,film & video,documentary
+False,False,film & video,drama
+False,False,film & video,drama
+False,False,film & video,drama
+False,True,film & video,drama
+False,False,film & video,drama
+False,False,film & video,drama
+False,True,film & video,drama
+False,False,film & video,drama
+False,False,film & video,drama
+False,False,film & video,drama
+False,False,film & video,drama
+False,False,film & video,drama
+False,True,film & video,drama
+False,False,film & video,drama
+False,False,film & video,drama
+False,False,film & video,drama
+False,False,film & video,drama
+False,True,film & video,drama
+False,True,film & video,drama
+False,False,film & video,drama
+False,True,film & video,drama
+False,True,film & video,drama
+False,False,film & video,drama
+False,False,film & video,drama
+False,False,film & video,drama
+False,False,film & video,drama
+False,False,film & video,drama
+False,True,film & video,drama
+False,False,film & video,drama
+False,True,film & video,drama
+False,True,film & video,drama
+False,False,film & video,drama
+False,False,film & video,drama
+True,False,film & video,drama
+False,False,film & video,drama
+False,True,film & video,drama
+False,True,film & video,drama
+False,False,film & video,animation
+False,False,film & video,animation
+False,False,film & video,animation
+False,True,film & video,animation
+False,False,film & video,animation
+False,False,film & video,animation
+False,False,film & video,animation
+False,False,film & video,animation
+False,False,film & video,animation
+False,False,film & video,animation
+False,False,film & video,animation
+False,False,film & video,animation
+False,True,film & video,animation
+False,False,film & video,animation
+False,False,film & video,animation
+False,True,film & video,animation
+False,False,film & video,animation
+False,False,film & video,animation
+False,False,film & video,animation
+False,True,film & video,animation
+False,False,film & video,animation
+False,False,film & video,animation
+False,False,film & video,animation
+False,False,film & video,animation
+False,False,film & video,animation
+False,True,film & video,animation
+False,False,film & video,animation
+False,True,film & video,animation
+False,False,film & video,animation
+False,True,film & video,animation
+False,True,film & video,animation
+False,False,film & video,animation
+True,False,film & video,animation
+False,False,film & video,animation
+False,False,film & video,shorts
+False,True,film & video,shorts
+False,True,film & video,shorts
+False,True,film & video,shorts
+False,False,film & video,shorts
+False,True,film & video,shorts
+True,True,film & video,shorts
+False,False,film & video,shorts
+False,False,film & video,shorts
+False,False,film & video,shorts
+False,False,film & video,shorts
+False,False,film & video,shorts
+True,False,film & video,shorts
+False,False,film & video,shorts
+False,False,film & video,shorts
+False,True,film & video,shorts
+False,False,film & video,television
+False,False,film & video,television
+False,False,film & video,television
+False,False,film & video,television
+False,True,film & video,television
+False,True,film & video,television
+False,False,film & video,television
+False,False,film & video,television
+False,False,film & video,television
+False,False,film & video,television
+False,False,film & video,television
+False,False,film & video,television
+False,True,film & video,television
+False,True,film & video,television
+False,True,film & video,television
+False,False,film & video,television
+False,False,film & video,television
+False,False,film & video,science fiction
+False,False,film & video,science fiction
+False,False,film & video,science fiction
+False,False,film & video,science fiction
+False,False,film & video,science fiction
+False,False,film & video,science fiction
+False,True,film & video,science fiction
+False,False,film & video,science fiction
+False,False,film & video,science fiction
+False,False,film & video,science fiction
+False,False,film & video,science fiction
+False,False,film & video,science fiction
+False,True,film & video,science fiction
+False,False,film & video,science fiction
+False,False,publishing,nonfiction
+False,False,publishing,nonfiction
+False,True,publishing,nonfiction
+False,False,publishing,nonfiction
+False,True,publishing,nonfiction
+False,False,publishing,nonfiction
+False,False,publishing,nonfiction
+False,False,publishing,nonfiction
+False,False,publishing,nonfiction
+False,False,publishing,nonfiction
+False,False,publishing,nonfiction
+False,False,publishing,nonfiction
+False,False,publishing,nonfiction
+True,True,publishing,nonfiction
+False,False,publishing,nonfiction
+False,False,publishing,nonfiction
+False,True,publishing,nonfiction
+False,True,publishing,nonfiction
+False,False,publishing,nonfiction
+False,True,publishing,nonfiction
+True,False,publishing,nonfiction
+False,True,publishing,fiction
+False,False,publishing,fiction
+False,False,publishing,fiction
+False,False,publishing,fiction
+False,False,publishing,fiction
+False,True,publishing,fiction
+False,True,publishing,fiction
+False,False,publishing,fiction
+False,False,publishing,fiction
+False,False,publishing,fiction
+False,True,publishing,fiction
+False,True,publishing,fiction
+False,False,publishing,fiction
+False,False,publishing,fiction
+False,False,publishing,fiction
+False,False,publishing,fiction
+False,True,publishing,fiction
+False,False,publishing,radio & podcasts
+False,False,publishing,radio & podcasts
+False,True,publishing,radio & podcasts
+False,False,publishing,radio & podcasts
+False,False,publishing,radio & podcasts
+False,False,publishing,radio & podcasts
+False,False,publishing,radio & podcasts
+False,False,publishing,radio & podcasts
+False,False,publishing,translations
+False,False,publishing,translations
+False,False,publishing,translations
+False,False,publishing,translations
+False,False,publishing,translations
+False,False,publishing,translations
+False,False,publishing,translations
+False,True,publishing,translations
+False,True,publishing,translations
+False,True,publishing,translations
+False,False,publishing,translations
+False,False,publishing,translations
+True,True,publishing,translations
+False,False,publishing,translations
+True,False,publishing,translations
+False,False,publishing,translations
+False,False,publishing,translations
+False,False,publishing,translations
+False,False,publishing,translations
+False,False,publishing,translations
+False,True,publishing,translations
+False,True,games,video games
+False,False,games,video games
+False,False,games,video games
+False,False,games,video games
+False,True,games,video games
+False,True,games,video games
+False,False,games,video games
+False,False,games,video games
+False,False,games,video games
+False,True,games,video games
+False,False,games,video games
+False,True,games,video games
+False,False,games,video games
+False,False,games,video games
+False,False,games,video games
+False,False,games,video games
+False,True,games,video games
+False,False,games,video games
+False,True,games,video games
+False,True,games,video games
+False,False,games,video games
+False,False,games,video games
+False,False,games,video games
+False,True,games,video games
+False,False,games,video games
+False,False,games,video games
+False,True,games,video games
+False,False,games,video games
+False,True,games,video games
+False,False,games,video games
+True,False,games,video games
+False,True,games,video games
+False,False,games,video games
+False,True,games,video games
+False,False,games,video games
+False,True,games,mobile games
+False,False,games,mobile games
+False,False,games,mobile games
+False,True,games,mobile games
+False,False,games,mobile games
+False,False,games,mobile games
+False,False,games,mobile games
+False,False,games,mobile games
+False,False,games,mobile games
+False,True,games,mobile games
+False,False,games,mobile games
+False,False,games,mobile games
+False,True,games,mobile games
+False,False,photography,photography books
+False,False,photography,photography books
+False,False,photography,photography books
+False,False,photography,photography books
+False,False,photography,photography books
+False,True,photography,photography books
+False,False,photography,photography books
+False,False,photography,photography books
+False,False,photography,photography books
+True,False,photography,photography books
+False,False,photography,photography books
+False,False,photography,photography books
+False,False,photography,photography books
+True,False,photography,photography books
+False,False,photography,photography books
+False,False,photography,photography books
+False,True,photography,photography books
+False,False,photography,photography books
+False,True,photography,photography books
+False,True,photography,photography books
+False,False,photography,photography books
+False,False,photography,photography books
+False,False,photography,photography books
+False,False,photography,photography books
+True,False,photography,photography books
+False,False,photography,photography books
+False,False,photography,photography books
+False,False,photography,photography books
+False,False,photography,photography books
+False,True,photography,photography books
+False,False,photography,photography books
+False,False,photography,photography books
+False,False,photography,photography books
+False,False,photography,photography books
+False,False,photography,photography books
+False,True,photography,photography books
+False,False,photography,photography books
+False,False,photography,photography books
+False,False,photography,photography books
+True,False,photography,photography books
+False,True,photography,photography books
+False,True,photography,photography books
+False,False,journalism,audio
+False,False,journalism,audio
+False,False,journalism,audio
+False,False,journalism,audio
