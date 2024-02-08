@@ -4,26 +4,56 @@
 
 
 CREATE TABLE "Campaigns" (
-    "staff_pick" boolean   NOT NULL,
-    "spotlight" boolean   NOT NULL,
-    "category" text   NOT NULL,
-    "subcategory" text   NOT NULL
+    "campaign_id" Serial   NOT NULL,
+    "company_name" Varchar   NOT NULL,
+    "description" text   NOT NULL,
+    "goal" numeric   NOT NULL,
+    "pledged" numeric   NOT NULL,
+    "backers_count" integer   NOT NULL,
+    "country" varchar   NOT NULL,
+    "currency" varchar   NOT NULL,
+    "launch_date" timestamp   NOT NULL,
+    "end_date" timestamp   NOT NULL,
+    "category_id" integer   NOT NULL,
+    "subcategory_id" integer   NOT NULL,
+    "contact_id" integer   NOT NULL,
+    CONSTRAINT "pk_Campaigns" PRIMARY KEY (
+        "campaign_id"
+     )
+);
+
+CREATE TABLE "Categories" (
+    "category_id" serial   NOT NULL,
+    "category" varchar   NOT NULL,
+    CONSTRAINT "pk_Categories" PRIMARY KEY (
+        "category_id"
+     )
+);
+
+CREATE TABLE "Subcategories" (
+    "subcategory_id" serial   NOT NULL,
+    "subcategory" varchar   NOT NULL,
+    CONSTRAINT "pk_Subcategories" PRIMARY KEY (
+        "subcategory_id"
+     )
 );
 
 CREATE TABLE "Contacts" (
-    "first_name" text   NOT NULL,
-    "last_name" text   NOT NULL,
-    "contact_id" text   NOT NULL,
-    "email" text   NOT NULL
+    "contact_id" serial   NOT NULL,
+    "first_name" varchar   NOT NULL,
+    "last_name" varchar   NOT NULL,
+    "email" varchar   NOT NULL,
+    CONSTRAINT "pk_Contacts" PRIMARY KEY (
+        "contact_id"
+     )
 );
 
-CREATE TABLE "Category" (
-    "category_id" text   NOT NULL,
-    "category" text   NOT NULL
-);
+ALTER TABLE "Campaigns" ADD CONSTRAINT "fk_Campaigns_category_id" FOREIGN KEY("category_id")
+REFERENCES "Categories" ("category_id");
 
-CREATE TABLE "Subcategory" (
-    "subcategory" text   NOT NULL,
-    "subcategory_id" text   NOT NULL
-);
+ALTER TABLE "Campaigns" ADD CONSTRAINT "fk_Campaigns_subcategory_id" FOREIGN KEY("subcategory_id")
+REFERENCES "Subcategories" ("subcategory_id");
+
+ALTER TABLE "Campaigns" ADD CONSTRAINT "fk_Campaigns_contact_id" FOREIGN KEY("contact_id")
+REFERENCES "Contacts" ("contact_id");
 
