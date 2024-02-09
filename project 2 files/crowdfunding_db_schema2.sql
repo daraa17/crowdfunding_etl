@@ -16,7 +16,7 @@ CREATE TABLE "Campaigns" (
     "end_date" timestamp   NOT NULL,
     "category_id" varchar   NOT NULL,
     "subcategory_id" varchar   NOT NULL,
-    "contact_id" integer   NOT NULL,
+    "contact_id" numeric   NOT NULL,
     CONSTRAINT "pk_Campaigns" PRIMARY KEY (
         "campaign_id"
      )
